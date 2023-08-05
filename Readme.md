@@ -1,9 +1,9 @@
 ##### [Replace the contents this README.MD file with the appropriate "Users manual" needed for the workflow.]
 
-# Private Analysis Workflows Template
+# Code and material repository for "Quantifying the effects of diet on microbial communities across different gut contexts" 
 
 
-#### Introduction
+#### Analysis pipeline
 > This page gives details concerning guiding principles and formatting required for private analysis workflows and reproducing papers.
 
 
