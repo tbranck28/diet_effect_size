@@ -14,6 +14,6 @@
 
 #### Directory Structure
 
-- The `/input` directory contains the by-sample taxonomic profiles and metadata for each study used in the analysis.
+- The `/input` directory contains the by-sample taxonomic profiles, metadata, and intermediate files generated for each study used in the analysis. This directory is organized by study and each study's directory contains `/Initial` and `/Intermediate` sub-directories.
 
-- The src directory is the main source directory for all the custom scripts used for manuscript.
+- The src directory is the main source directory for all the custom scripts used for manuscript. The README in this directory describes the code and corresponding input and output files.
